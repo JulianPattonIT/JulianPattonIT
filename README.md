@@ -4,6 +4,7 @@
 - 💞️ Open to collaborate on projects that analyze data on music.
 - 📫 How to reach me:
 -     Email: Jpatton5425@outlook.com
+-     LinkedIn: https://www.linkedin.com/in/julian-patton/
 
 
 <!---
