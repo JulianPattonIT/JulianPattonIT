@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulianPattonIT
 - 👀 I’m interested in Data Science and solving complex issues.
 - 🌱 I’m currently learning Python, EDA, Supervised/un-supervised models, Model Tuning, Decision Trees, etc.
-- 💞️ I’m looking to collaborate on analying data on music and DJing.
+- 💞️ Open to collaborate on projects that analyze data on music.
 - 📫 How to reach me:
 -     Email: Jpatton5425@outlook.com
 
