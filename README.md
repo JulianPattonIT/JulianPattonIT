@@ -4,7 +4,7 @@
 
 I'm a data scientist with a background spanning IT support, systems administration, and data/reporting roles. I hold a Post Graduate Certification in **Data Science & Business Analytics** from the **University of Texas at Austin (McCombs School of Business)** and am actively seeking Data Scientist opportunities where I can apply machine learning, statistical modeling, and analytical thinking to solve real business problems.
 
-📍 Based in the US &nbsp;|&nbsp; 📬 [Jpatton5425@outlook.com](mailto:Jpatton5425@outlook.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/julian-patton/) &nbsp;|&nbsp; 🌐 [ePortfolio](https://eportfolio.mygreatlearning.com/julian-patton)
+📍 Based in the US &nbsp;|&nbsp; 📬 [Jpatton5425@outlook.com](mailto:Jpatton5425@outlook.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/julian-patton/) &nbsp;|&nbsp; 🌐 [ePortfolio](https://eportfolio.mygreatlearning.com/julian-patton) &nbsp;| Visit my Website: www.julianpattonit.com
 
 ---
 
